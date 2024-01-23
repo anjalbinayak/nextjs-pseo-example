@@ -1,0 +1,55 @@
+{
+    "supercars": [
+      {
+        "brand": "Ferrari",
+        "model": "LaFerrari",
+        "year": 2021,
+        "top_speed_mph": 217,
+        "acceleration_sec": 2.4,
+        "engine": "V12 Hybrid",
+        "horsepower": 950,
+        "price_usd": 1.5e6
+      },
+      {
+        "brand": "Lamborghini",
+        "model": "Aventador SVJ",
+        "year": 2022,
+        "top_speed_mph": 220,
+        "acceleration_sec": 2.8,
+        "engine": "V12",
+        "horsepower": 770,
+        "price_usd": 2.0e6
+      },
+      {
+        "brand": "Bugatti",
+        "model": "Chiron",
+        "year": 2020,
+        "top_speed_mph": 304,
+        "acceleration_sec": 2.5,
+        "engine": "Quad-Turbo W16",
+        "horsepower": 1500,
+        "price_usd": 3.5e6
+      },
+      {
+        "brand": "McLaren",
+        "model": "P1",
+        "year": 2019,
+        "top_speed_mph": 217,
+        "acceleration_sec": 2.8,
+        "engine": "V8 Hybrid",
+        "horsepower": 903,
+        "price_usd": 1.8e6
+      },
+      {
+        "brand": "Porsche",
+        "model": "918 Spyder",
+        "year": 2020,
+        "top_speed_mph": 214,
+        "acceleration_sec": 2.5,
+        "engine": "V8 Hybrid",
+        "horsepower": 887,
+        "price_usd": 1.7e6
+      }
+    ]
+  }
+  
